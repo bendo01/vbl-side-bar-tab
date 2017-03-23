@@ -1,0 +1,22 @@
+{
+    "name": "vbl-side-bar-tab",
+    "version": "0.0.1",
+    "description": "SideBarTab component for vbl",
+    "main": "src/SideBarTab.vue",
+    "peerDependencies": {
+        "bulma": ">=0.4",
+        "vue": ">=2"
+    },
+    "repository": "vbl-side-bar-tab",
+    "keywords": [
+        "vue",
+        "bulma",
+        "laravel",
+        "vbl",
+        "vbl-component",
+        "vbl-side-bar-tab",
+        "side-bar-tab"
+    ],
+    "author": "Benny Leonard Enrico Panggabean <bendo01@gmail.com>",
+    "license": "MIT"
+}
