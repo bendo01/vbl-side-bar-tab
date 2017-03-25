@@ -1,9 +1,9 @@
 {
     "name": "vbl-side-bar-tab",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "SideBarTab component for vbl",
     "main": "src/SideBarTab.vue",
-    "peerDependencies": {
+    "dependencies": {
         "bulma": ">=0.4",
         "vue": ">=2"
     },
