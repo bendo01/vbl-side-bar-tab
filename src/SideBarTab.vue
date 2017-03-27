@@ -24,3 +24,9 @@ export default {
     }
 };
 </script>
+<style lang="scss">
+    .tab-pane {
+        height: 95vh;
+        font-size: 0.9em;
+    }
+</style>
